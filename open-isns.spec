@@ -4,7 +4,7 @@
 #
 Name     : open-isns
 Version  : 0.98
-Release  : 3
+Release  : 4
 URL      : https://github.com/open-iscsi/open-isns/archive/v0.98.tar.gz
 Source0  : https://github.com/open-iscsi/open-isns/archive/v0.98.tar.gz
 Summary  : No detailed summary available

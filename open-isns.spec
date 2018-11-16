@@ -4,7 +4,7 @@
 #
 Name     : open-isns
 Version  : 0.99
-Release  : 5
+Release  : 6
 URL      : https://github.com/open-iscsi/open-isns/archive/v0.99.tar.gz
 Source0  : https://github.com/open-iscsi/open-isns/archive/v0.99.tar.gz
 Summary  : No detailed summary available

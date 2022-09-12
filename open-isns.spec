@@ -4,7 +4,7 @@
 #
 Name     : open-isns
 Version  : 0.102
-Release  : 11
+Release  : 12
 URL      : https://github.com/open-iscsi/open-isns/archive/v0.102/open-isns-0.102.tar.gz
 Source0  : https://github.com/open-iscsi/open-isns/archive/v0.102/open-isns-0.102.tar.gz
 Summary  : iSNS user space library
